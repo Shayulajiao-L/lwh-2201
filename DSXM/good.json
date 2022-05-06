@@ -1,0 +1,134 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "src": "https://img11.360buyimg.com/n7/jfs/t1/72353/12/17692/144932/626add4cE42191581/165c5951353792b7.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 2,
+      "src": "https://img10.360buyimg.com/n7/jfs/t1/88274/23/23131/122418/6205fe4eE332b809d/424d468939167095.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 3,
+      "src": "https://img10.360buyimg.com/n7/jfs/t1/206337/10/10803/102622/6163f1fcEe4d58cab/dc80eb973c2a50b6.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 4,
+      "src": "https://img14.360buyimg.com/n7/jfs/t16192/351/1354297402/314904/bc3700c7/5a508b53N1688a10d.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 5,
+      "src": "https://img11.360buyimg.com/n7/jfs/t1/23470/4/4883/127609/5c35d9d5E69f8ef4b/af50795ef00bd305.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 6,
+      "src": "https://img11.360buyimg.com/n7/jfs/t1/166834/37/22304/136098/61c30278E8402cccc/4a08ea24569ad41f.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 7,
+      "src": "https://img11.360buyimg.com/n7/jfs/t1/177665/30/17222/200456/610a5fe0Ea3b488ae/7f2de4f5d328a8af.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 8,
+      "src": "https://img14.360buyimg.com/n7/jfs/t1/171001/3/27661/137322/61bada34E7fc1abbd/93795acd9b991d02.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 9,
+      "src": "https://img11.360buyimg.com/n7/jfs/t1/165049/17/27570/404715/6200dc87E461d51fd/5b651669a3ad96dd.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    },
+    {
+      "id": 10,
+      "src": "https://img10.360buyimg.com/n7/jfs/t1/180420/22/21697/112006/625e6d3bE4ac36f1d/739098d9a72c1384.jpg",
+      "title": "赛妮美秋冬保暖内衣女薄款高领百搭时尚打底基础无缝美体塑身秋衣8603(精品红)",
+      "price": "¥79.00"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "id": 5
+    },
+    {
+      "username": "username",
+      "password": "password",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 11
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "id": 13
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
